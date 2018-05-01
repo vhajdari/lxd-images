@@ -2,5 +2,5 @@ language: python
 python:
   - "3.6"
 before_script:
- - chmod +x ./images.py 
+ - pip install -r requirements.txt 
 install: python3 ./images.py
