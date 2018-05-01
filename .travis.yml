@@ -3,4 +3,4 @@ python:
   - "3.6"
 before_script:
  - chmod +x images.py 
-install: ./images.py
+install: images.py
