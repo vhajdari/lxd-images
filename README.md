@@ -2,7 +2,7 @@
 
 A collection of LXD images available in JSON format from the **images:** remote.
 
-https://raw.githubusercontent.com/vhajdari/lxd-images/gh-pages/images.json
+https://vhajdari.github.io/lxd-images/images.json
 
 ### Support or Contact
 
