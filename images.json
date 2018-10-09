@@ -1,8 +1,8 @@
 {
   "source": "https://images.linuxcontainers.org",
-  "timestamp": "2018-10-07T15:40:29",
+  "timestamp": "2018-10-09T15:40:55",
   "sha1": "12240ad335cef5d0ebec064e434169f63dec4af6",
-  "run_id": "51f4b357fe5947a196ef7f8af5616144",
+  "run_id": "d93951d6bc4a43449a23fd4d236935fc",
   "images": [
     {
       "type": "sync",
