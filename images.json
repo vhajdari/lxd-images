@@ -1,8 +1,8 @@
 {
   "source": "https://images.linuxcontainers.org",
-  "timestamp": "2019-05-09T17:24:26",
-  "sha1": "591beb99bcce2252d5e690a61e6ff03ba1c23229",
-  "run_id": "06699ecbc52744d69844c678bf2da162",
+  "timestamp": "2019-05-11T17:25:08",
+  "sha1": "18331e54daa82e30459f8433160d8d6c15b6ed2b",
+  "run_id": "c58c2b3fd72549febd7517e6daa2ed42",
   "images": [
     {
       "type": "sync",
@@ -2403,33 +2403,6 @@
       "metadata": {
         "aliases": [],
         "architecture": "x86_64",
-        "fingerprint": "f4f2e5358252a7c19ee46d6e2c8571b2fca816a686ee2e3ac42dc45848755082",
-        "filename": "alt-Sisyphus-amd64-default-20190507_01:17.tar.xz",
-        "properties": {
-          "description": "Alt Sisyphus amd64 (20190507_01:17)",
-          "distribution": "alt",
-          "release": "Sisyphus",
-          "architecture": "amd64",
-          "build": "20190507_01:17",
-          "serial": "20190507_01:17",
-          "name": "alt-Sisyphus-amd64-default-20190507_01:17",
-          "os": "alt",
-          "variant": "default"
-        },
-        "size": 234967902,
-        "public": true,
-        "created_at": "2019-05-07T01:33:28Z",
-        "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:33:28Z"
-      }
-    },
-    {
-      "type": "sync",
-      "status": "Success",
-      "status_code": 200,
-      "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
         "fingerprint": "717cd4aacdd0bf18697f50829f5a442c3095f71985acc88d5aecccfdfd68e0cb",
         "filename": "alt-Sisyphus-amd64-default-20190508_01:17.tar.xz",
         "properties": {
@@ -2455,18 +2428,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "alt/Sisyphus/amd64/default",
-            "description": "Alt Sisyphus (amd64) (default)",
-            "target": "alt/Sisyphus/amd64/default"
-          },
-          {
-            "name": "alt/Sisyphus/amd64",
-            "description": "Alt Sisyphus (amd64)",
-            "target": "alt/Sisyphus/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "3ee8db09da83e8f3f5cc464dc309b63e70cc73168f745c10715e388b8deacd65",
         "filename": "alt-Sisyphus-amd64-default-20190509_01:17.tar.xz",
@@ -2493,26 +2455,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "aarch64",
-        "fingerprint": "3ed057ec3a53294dfd149c45b27e7476b4aa916d664a644736cfc3c24f6b9b22",
-        "filename": "alt-Sisyphus-arm64-default-20190507_01:17.tar.xz",
+        "aliases": [
+          {
+            "name": "alt/Sisyphus/amd64/default",
+            "description": "Alt Sisyphus (amd64) (default)",
+            "target": "alt/Sisyphus/amd64/default"
+          },
+          {
+            "name": "alt/Sisyphus/amd64",
+            "description": "Alt Sisyphus (amd64)",
+            "target": "alt/Sisyphus/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "16cae7fe66e53c208b17633f2f43f8ff55687846a834f655b6080fcd8c7bca53",
+        "filename": "alt-Sisyphus-amd64-default-20190510_01:17.tar.xz",
         "properties": {
-          "description": "Alt Sisyphus arm64 (20190507_01:17)",
+          "description": "Alt Sisyphus amd64 (20190510_01:17)",
           "distribution": "alt",
           "release": "Sisyphus",
-          "architecture": "arm64",
-          "build": "20190507_01:17",
-          "serial": "20190507_01:17",
-          "name": "alt-Sisyphus-arm64-default-20190507_01:17",
+          "architecture": "amd64",
+          "build": "20190510_01:17",
+          "serial": "20190510_01:17",
+          "name": "alt-Sisyphus-amd64-default-20190510_01:17",
           "os": "alt",
           "variant": "default"
         },
-        "size": 183972698,
+        "size": 235258718,
         "public": true,
-        "created_at": "2019-05-07T01:35:55Z",
+        "created_at": "2019-05-10T01:32:41Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:35:55Z"
+        "uploaded_at": "2019-05-10T01:32:41Z"
       }
     },
     {
@@ -2547,18 +2520,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "alt/Sisyphus/arm64/default",
-            "description": "Alt Sisyphus (arm64) (default)",
-            "target": "alt/Sisyphus/arm64/default"
-          },
-          {
-            "name": "alt/Sisyphus/arm64",
-            "description": "Alt Sisyphus (arm64)",
-            "target": "alt/Sisyphus/arm64"
-          }
-        ],
+        "aliases": [],
         "architecture": "aarch64",
         "fingerprint": "ed0ca5b457d29a9446d0aba52a2b1b314f59681fab7fc4939f3ca8750c6c767b",
         "filename": "alt-Sisyphus-arm64-default-20190509_01:17.tar.xz",
@@ -2585,26 +2547,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "i686",
-        "fingerprint": "2bb02e785b004d939d5270698085e2ed38b26aebda849a2fa0296dd4e79c5ab1",
-        "filename": "alt-Sisyphus-i386-default-20190507_01:17.tar.xz",
+        "aliases": [
+          {
+            "name": "alt/Sisyphus/arm64/default",
+            "description": "Alt Sisyphus (arm64) (default)",
+            "target": "alt/Sisyphus/arm64/default"
+          },
+          {
+            "name": "alt/Sisyphus/arm64",
+            "description": "Alt Sisyphus (arm64)",
+            "target": "alt/Sisyphus/arm64"
+          }
+        ],
+        "architecture": "aarch64",
+        "fingerprint": "1e601521283612670bbc9b0590e496112d6e1ccda96bd3ba5a6594b19ad9307f",
+        "filename": "alt-Sisyphus-arm64-default-20190510_01:17.tar.xz",
         "properties": {
-          "description": "Alt Sisyphus i386 (20190507_01:17)",
+          "description": "Alt Sisyphus arm64 (20190510_01:17)",
           "distribution": "alt",
           "release": "Sisyphus",
-          "architecture": "i386",
-          "build": "20190507_01:17",
-          "serial": "20190507_01:17",
-          "name": "alt-Sisyphus-i386-default-20190507_01:17",
+          "architecture": "arm64",
+          "build": "20190510_01:17",
+          "serial": "20190510_01:17",
+          "name": "alt-Sisyphus-arm64-default-20190510_01:17",
           "os": "alt",
           "variant": "default"
         },
-        "size": 190411610,
+        "size": 184107866,
         "public": true,
-        "created_at": "2019-05-07T01:38:28Z",
+        "created_at": "2019-05-10T01:34:38Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:38:28Z"
+        "uploaded_at": "2019-05-10T01:34:38Z"
       }
     },
     {
@@ -2639,18 +2612,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "alt/Sisyphus/i386/default",
-            "description": "Alt Sisyphus (i386) (default)",
-            "target": "alt/Sisyphus/i386/default"
-          },
-          {
-            "name": "alt/Sisyphus/i386",
-            "description": "Alt Sisyphus (i386)",
-            "target": "alt/Sisyphus/i386"
-          }
-        ],
+        "aliases": [],
         "architecture": "i686",
         "fingerprint": "5a09ed1501639ced5da784918a01fda6bd4b4b8c29c50f4a869b9510d9da0005",
         "filename": "alt-Sisyphus-i386-default-20190509_01:17.tar.xz",
@@ -2670,6 +2632,44 @@
         "created_at": "2019-05-09T01:36:23Z",
         "expires_at": "1970-01-01T00:00:00Z",
         "uploaded_at": "2019-05-09T01:36:23Z"
+      }
+    },
+    {
+      "type": "sync",
+      "status": "Success",
+      "status_code": 200,
+      "metadata": {
+        "aliases": [
+          {
+            "name": "alt/Sisyphus/i386/default",
+            "description": "Alt Sisyphus (i386) (default)",
+            "target": "alt/Sisyphus/i386/default"
+          },
+          {
+            "name": "alt/Sisyphus/i386",
+            "description": "Alt Sisyphus (i386)",
+            "target": "alt/Sisyphus/i386"
+          }
+        ],
+        "architecture": "i686",
+        "fingerprint": "9ff9d57f16a13047d9c7f9e3ad71cff3ba1fdbffd381abe7f5d4259e5e67674e",
+        "filename": "alt-Sisyphus-i386-default-20190510_01:17.tar.xz",
+        "properties": {
+          "description": "Alt Sisyphus i386 (20190510_01:17)",
+          "distribution": "alt",
+          "release": "Sisyphus",
+          "architecture": "i386",
+          "build": "20190510_01:17",
+          "serial": "20190510_01:17",
+          "name": "alt-Sisyphus-i386-default-20190510_01:17",
+          "os": "alt",
+          "variant": "default"
+        },
+        "size": 190591834,
+        "public": true,
+        "created_at": "2019-05-10T01:36:47Z",
+        "expires_at": "1970-01-01T00:00:00Z",
+        "uploaded_at": "2019-05-10T01:36:47Z"
       }
     },
     {
@@ -6389,33 +6389,6 @@
       "metadata": {
         "aliases": [],
         "architecture": "x86_64",
-        "fingerprint": "f780c2332a805f6982b8b4cbbca087b261e1f334f13683e5a91fc0cf80d76c84",
-        "filename": "fedora-28-amd64-default-20190506_20:33.tar.xz",
-        "properties": {
-          "description": "Fedora 28 amd64 (20190506_20:33)",
-          "distribution": "fedora",
-          "release": "28",
-          "architecture": "amd64",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-28-amd64-default-20190506_20:33",
-          "os": "fedora",
-          "variant": "default"
-        },
-        "size": 87868294,
-        "public": true,
-        "created_at": "2019-05-06T20:45:56Z",
-        "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:45:56Z"
-      }
-    },
-    {
-      "type": "sync",
-      "status": "Success",
-      "status_code": 200,
-      "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
         "fingerprint": "38ae7606973098abb3fdacae6f0b366f1129252ef9a40cae32181202a5c1fe14",
         "filename": "fedora-28-amd64-default-20190507_20:33.tar.xz",
         "properties": {
@@ -6441,18 +6414,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/28/amd64/default",
-            "description": "Fedora 28 (amd64) (default)",
-            "target": "fedora/28/amd64/default"
-          },
-          {
-            "name": "fedora/28/amd64",
-            "description": "Fedora 28 (amd64)",
-            "target": "fedora/28/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "1426b51d328f2923dc12d608f88beb56da91dcdbdf33050e611ead4de5bcae80",
         "filename": "fedora-28-amd64-default-20190508_20:33.tar.xz",
@@ -6479,26 +6441,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "aarch64",
-        "fingerprint": "055570db7208442cc835def7bade6b5e1d13b72e50ccc191748a1637cc1d1d66",
-        "filename": "fedora-28-arm64-default-20190506_20:33.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/28/amd64/default",
+            "description": "Fedora 28 (amd64) (default)",
+            "target": "fedora/28/amd64/default"
+          },
+          {
+            "name": "fedora/28/amd64",
+            "description": "Fedora 28 (amd64)",
+            "target": "fedora/28/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "1ea407327cbdf4b7b9620b98b273427442d4f2833db90b4de965915b8d97b15b",
+        "filename": "fedora-28-amd64-default-20190509_20:33.tar.xz",
         "properties": {
-          "description": "Fedora 28 arm64 (20190506_20:33)",
+          "description": "Fedora 28 amd64 (20190509_20:33)",
           "distribution": "fedora",
           "release": "28",
-          "architecture": "arm64",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-28-arm64-default-20190506_20:33",
+          "architecture": "amd64",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-28-amd64-default-20190509_20:33",
           "os": "fedora",
           "variant": "default"
         },
-        "size": 86696842,
+        "size": 87856006,
         "public": true,
-        "created_at": "2019-05-06T21:01:06Z",
+        "created_at": "2019-05-09T20:46:01Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T21:01:06Z"
+        "uploaded_at": "2019-05-09T20:46:01Z"
       }
     },
     {
@@ -6533,18 +6506,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/28/arm64/default",
-            "description": "Fedora 28 (arm64) (default)",
-            "target": "fedora/28/arm64/default"
-          },
-          {
-            "name": "fedora/28/arm64",
-            "description": "Fedora 28 (arm64)",
-            "target": "fedora/28/arm64"
-          }
-        ],
+        "aliases": [],
         "architecture": "aarch64",
         "fingerprint": "9239fe62e9fc9908d038baf987d4933a38a3d372be6598238ac83dfa81caeb59",
         "filename": "fedora-28-arm64-default-20190508_20:34.tar.xz",
@@ -6571,26 +6533,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "armv7l",
-        "fingerprint": "994f671b6f02c0d46b6344632e61cbdf054474a36a5f33b638772a82928a0869",
-        "filename": "fedora-28-armhf-default-20190506_20:33.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/28/arm64/default",
+            "description": "Fedora 28 (arm64) (default)",
+            "target": "fedora/28/arm64/default"
+          },
+          {
+            "name": "fedora/28/arm64",
+            "description": "Fedora 28 (arm64)",
+            "target": "fedora/28/arm64"
+          }
+        ],
+        "architecture": "aarch64",
+        "fingerprint": "96c8cabaf5a856e9fb4666066b1f50272a8c9331f6f6b7cfb0895066cc46c9ab",
+        "filename": "fedora-28-arm64-default-20190509_20:33.tar.xz",
         "properties": {
-          "description": "Fedora 28 armhf (20190506_20:33)",
+          "description": "Fedora 28 arm64 (20190509_20:33)",
           "distribution": "fedora",
           "release": "28",
-          "architecture": "armhf",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-28-armhf-default-20190506_20:33",
+          "architecture": "arm64",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-28-arm64-default-20190509_20:33",
           "os": "fedora",
           "variant": "default"
         },
-        "size": 81953670,
+        "size": 86696842,
         "public": true,
-        "created_at": "2019-05-06T21:01:58Z",
+        "created_at": "2019-05-09T21:01:01Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T21:01:58Z"
+        "uploaded_at": "2019-05-09T21:01:01Z"
       }
     },
     {
@@ -6625,18 +6598,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/28/armhf/default",
-            "description": "Fedora 28 (armhf) (default)",
-            "target": "fedora/28/armhf/default"
-          },
-          {
-            "name": "fedora/28/armhf",
-            "description": "Fedora 28 (armhf)",
-            "target": "fedora/28/armhf"
-          }
-        ],
+        "aliases": [],
         "architecture": "armv7l",
         "fingerprint": "8de699ee5ab4726adcea8064bcff82a6c4b39c447844b39992498ff2794fc6ad",
         "filename": "fedora-28-armhf-default-20190508_20:33.tar.xz",
@@ -6656,6 +6618,44 @@
         "created_at": "2019-05-08T21:00:46Z",
         "expires_at": "1970-01-01T00:00:00Z",
         "uploaded_at": "2019-05-08T21:00:46Z"
+      }
+    },
+    {
+      "type": "sync",
+      "status": "Success",
+      "status_code": 200,
+      "metadata": {
+        "aliases": [
+          {
+            "name": "fedora/28/armhf/default",
+            "description": "Fedora 28 (armhf) (default)",
+            "target": "fedora/28/armhf/default"
+          },
+          {
+            "name": "fedora/28/armhf",
+            "description": "Fedora 28 (armhf)",
+            "target": "fedora/28/armhf"
+          }
+        ],
+        "architecture": "armv7l",
+        "fingerprint": "d869371d1dd525283337a11e40901497780fe2abf4fd9bca617abcab3a22d76e",
+        "filename": "fedora-28-armhf-default-20190509_20:33.tar.xz",
+        "properties": {
+          "description": "Fedora 28 armhf (20190509_20:33)",
+          "distribution": "fedora",
+          "release": "28",
+          "architecture": "armhf",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-28-armhf-default-20190509_20:33",
+          "os": "fedora",
+          "variant": "default"
+        },
+        "size": 81949574,
+        "public": true,
+        "created_at": "2019-05-09T21:02:08Z",
+        "expires_at": "1970-01-01T00:00:00Z",
+        "uploaded_at": "2019-05-09T21:02:08Z"
       }
     },
     {
@@ -6757,33 +6757,6 @@
       "metadata": {
         "aliases": [],
         "architecture": "s390x",
-        "fingerprint": "3b8f785cf528d030d66f69f0576dcf750ced7c925de5ab3bb1f6ece3d4dc7152",
-        "filename": "fedora-28-s390x-default-20190506_20:33.tar.xz",
-        "properties": {
-          "description": "Fedora 28 s390x (20190506_20:33)",
-          "distribution": "fedora",
-          "release": "28",
-          "architecture": "s390x",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-28-s390x-default-20190506_20:33",
-          "os": "fedora",
-          "variant": "default"
-        },
-        "size": 85975942,
-        "public": true,
-        "created_at": "2019-05-06T20:46:38Z",
-        "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:46:38Z"
-      }
-    },
-    {
-      "type": "sync",
-      "status": "Success",
-      "status_code": 200,
-      "metadata": {
-        "aliases": [],
-        "architecture": "s390x",
         "fingerprint": "3f7934e4afeb6d1fcd8f5d3ac572e1c377bc29fe61509c0f845eea1262d9e43a",
         "filename": "fedora-28-s390x-default-20190507_20:33.tar.xz",
         "properties": {
@@ -6809,18 +6782,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/28/s390x/default",
-            "description": "Fedora 28 (s390x) (default)",
-            "target": "fedora/28/s390x/default"
-          },
-          {
-            "name": "fedora/28/s390x",
-            "description": "Fedora 28 (s390x)",
-            "target": "fedora/28/s390x"
-          }
-        ],
+        "aliases": [],
         "architecture": "s390x",
         "fingerprint": "d60e5c5a94bed5eb84e6269f2067ef6ae28245bb3d21819ba827014728f1f389",
         "filename": "fedora-28-s390x-default-20190508_20:33.tar.xz",
@@ -6847,26 +6809,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
-        "fingerprint": "a3a816a646ef20524059d2912af3720e7c317e84b6dc095f17cedfd72d23b44d",
-        "filename": "fedora-29-amd64-default-20190506_20:33.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/28/s390x/default",
+            "description": "Fedora 28 (s390x) (default)",
+            "target": "fedora/28/s390x/default"
+          },
+          {
+            "name": "fedora/28/s390x",
+            "description": "Fedora 28 (s390x)",
+            "target": "fedora/28/s390x"
+          }
+        ],
+        "architecture": "s390x",
+        "fingerprint": "cba12d78418bdd08a8ac5b803a783312fdb50ff6d4e8477b00ed2cb8ed6fe2d2",
+        "filename": "fedora-28-s390x-default-20190509_20:33.tar.xz",
         "properties": {
-          "description": "Fedora 29 amd64 (20190506_20:33)",
+          "description": "Fedora 28 s390x (20190509_20:33)",
           "distribution": "fedora",
-          "release": "29",
-          "architecture": "amd64",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-29-amd64-default-20190506_20:33",
+          "release": "28",
+          "architecture": "s390x",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-28-s390x-default-20190509_20:33",
           "os": "fedora",
           "variant": "default"
         },
-        "size": 117654406,
+        "size": 85984134,
         "public": true,
-        "created_at": "2019-05-06T20:47:36Z",
+        "created_at": "2019-05-09T20:46:45Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:47:36Z"
+        "uploaded_at": "2019-05-09T20:46:45Z"
       }
     },
     {
@@ -6901,18 +6874,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/29/amd64/default",
-            "description": "Fedora 29 (amd64) (default)",
-            "target": "fedora/29/amd64/default"
-          },
-          {
-            "name": "fedora/29/amd64",
-            "description": "Fedora 29 (amd64)",
-            "target": "fedora/29/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "5cf164d220bd574a798ca03041f015f9b1bc7f25a6213bcd52af359f8064f3c4",
         "filename": "fedora-29-amd64-default-20190508_20:33.tar.xz",
@@ -6939,26 +6901,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "aarch64",
-        "fingerprint": "7268bff72261bfc520da913073078be70f37fabc1201b09822c9b51ffa02cf46",
-        "filename": "fedora-29-arm64-default-20190506_20:34.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/29/amd64/default",
+            "description": "Fedora 29 (amd64) (default)",
+            "target": "fedora/29/amd64/default"
+          },
+          {
+            "name": "fedora/29/amd64",
+            "description": "Fedora 29 (amd64)",
+            "target": "fedora/29/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "0866062202551a5f271146bae2ef4784766f341a7f7d4be24a6643e10d7a8e25",
+        "filename": "fedora-29-amd64-default-20190509_20:33.tar.xz",
         "properties": {
-          "description": "Fedora 29 arm64 (20190506_20:34)",
+          "description": "Fedora 29 amd64 (20190509_20:33)",
           "distribution": "fedora",
           "release": "29",
-          "architecture": "arm64",
-          "build": "20190506_20:34",
-          "serial": "20190506_20:34",
-          "name": "fedora-29-arm64-default-20190506_20:34",
+          "architecture": "amd64",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-29-amd64-default-20190509_20:33",
           "os": "fedora",
           "variant": "default"
         },
-        "size": 116134790,
+        "size": 117674886,
         "public": true,
-        "created_at": "2019-05-06T20:48:37Z",
+        "created_at": "2019-05-09T20:47:51Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:48:37Z"
+        "uploaded_at": "2019-05-09T20:47:51Z"
       }
     },
     {
@@ -6993,18 +6966,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/29/arm64/default",
-            "description": "Fedora 29 (arm64) (default)",
-            "target": "fedora/29/arm64/default"
-          },
-          {
-            "name": "fedora/29/arm64",
-            "description": "Fedora 29 (arm64)",
-            "target": "fedora/29/arm64"
-          }
-        ],
+        "aliases": [],
         "architecture": "aarch64",
         "fingerprint": "29a9287dfce50f9206496ec96517d1217b97bd4b67d27553db2487bffa7403d2",
         "filename": "fedora-29-arm64-default-20190508_20:33.tar.xz",
@@ -7031,26 +6993,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "armv7l",
-        "fingerprint": "b384812daa08e877913a7c9592c7d28fd86e6db66d110b038945eed4291c5dfb",
-        "filename": "fedora-29-armhf-default-20190506_20:33.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/29/arm64/default",
+            "description": "Fedora 29 (arm64) (default)",
+            "target": "fedora/29/arm64/default"
+          },
+          {
+            "name": "fedora/29/arm64",
+            "description": "Fedora 29 (arm64)",
+            "target": "fedora/29/arm64"
+          }
+        ],
+        "architecture": "aarch64",
+        "fingerprint": "55190260f887c2c98b5875a9a55069793671e133936e7e852cc048db1b87b201",
+        "filename": "fedora-29-arm64-default-20190509_20:34.tar.xz",
         "properties": {
-          "description": "Fedora 29 armhf (20190506_20:33)",
+          "description": "Fedora 29 arm64 (20190509_20:34)",
           "distribution": "fedora",
           "release": "29",
-          "architecture": "armhf",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-29-armhf-default-20190506_20:33",
+          "architecture": "arm64",
+          "build": "20190509_20:34",
+          "serial": "20190509_20:34",
+          "name": "fedora-29-arm64-default-20190509_20:34",
           "os": "fedora",
           "variant": "default"
         },
-        "size": 111174538,
+        "size": 116159366,
         "public": true,
-        "created_at": "2019-05-06T20:49:30Z",
+        "created_at": "2019-05-09T20:48:56Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:49:30Z"
+        "uploaded_at": "2019-05-09T20:48:56Z"
       }
     },
     {
@@ -7085,18 +7058,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/29/armhf/default",
-            "description": "Fedora 29 (armhf) (default)",
-            "target": "fedora/29/armhf/default"
-          },
-          {
-            "name": "fedora/29/armhf",
-            "description": "Fedora 29 (armhf)",
-            "target": "fedora/29/armhf"
-          }
-        ],
+        "aliases": [],
         "architecture": "armv7l",
         "fingerprint": "fe3ee6d99960d0dcb2864208a509182673b9ab7c1e54bc5598dec0c59232146f",
         "filename": "fedora-29-armhf-default-20190508_20:33.tar.xz",
@@ -7116,6 +7078,44 @@
         "created_at": "2019-05-08T21:01:40Z",
         "expires_at": "1970-01-01T00:00:00Z",
         "uploaded_at": "2019-05-08T21:01:40Z"
+      }
+    },
+    {
+      "type": "sync",
+      "status": "Success",
+      "status_code": 200,
+      "metadata": {
+        "aliases": [
+          {
+            "name": "fedora/29/armhf/default",
+            "description": "Fedora 29 (armhf) (default)",
+            "target": "fedora/29/armhf/default"
+          },
+          {
+            "name": "fedora/29/armhf",
+            "description": "Fedora 29 (armhf)",
+            "target": "fedora/29/armhf"
+          }
+        ],
+        "architecture": "armv7l",
+        "fingerprint": "873a9652098a270ac332c2d4fee8b8b13ff02cc116b6fc4dcb333a5f4a3c2370",
+        "filename": "fedora-29-armhf-default-20190509_20:33.tar.xz",
+        "properties": {
+          "description": "Fedora 29 armhf (20190509_20:33)",
+          "distribution": "fedora",
+          "release": "29",
+          "architecture": "armhf",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-29-armhf-default-20190509_20:33",
+          "os": "fedora",
+          "variant": "default"
+        },
+        "size": 111244174,
+        "public": true,
+        "created_at": "2019-05-09T20:49:59Z",
+        "expires_at": "1970-01-01T00:00:00Z",
+        "uploaded_at": "2019-05-09T20:49:59Z"
       }
     },
     {
@@ -7217,33 +7217,6 @@
       "metadata": {
         "aliases": [],
         "architecture": "s390x",
-        "fingerprint": "f964211e46b6ed6a054446c6f86207ea07330413c159bd6974c43f4aaa16d734",
-        "filename": "fedora-29-s390x-default-20190506_20:33.tar.xz",
-        "properties": {
-          "description": "Fedora 29 s390x (20190506_20:33)",
-          "distribution": "fedora",
-          "release": "29",
-          "architecture": "s390x",
-          "build": "20190506_20:33",
-          "serial": "20190506_20:33",
-          "name": "fedora-29-s390x-default-20190506_20:33",
-          "os": "fedora",
-          "variant": "default"
-        },
-        "size": 115471238,
-        "public": true,
-        "created_at": "2019-05-06T20:50:26Z",
-        "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T20:50:26Z"
-      }
-    },
-    {
-      "type": "sync",
-      "status": "Success",
-      "status_code": 200,
-      "metadata": {
-        "aliases": [],
-        "architecture": "s390x",
         "fingerprint": "26637055b0e588078c59eeb15b165558c9176d21cc55f29edb1d3e783d74d1bb",
         "filename": "fedora-29-s390x-default-20190507_20:33.tar.xz",
         "properties": {
@@ -7269,18 +7242,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "fedora/29/s390x/default",
-            "description": "Fedora 29 (s390x) (default)",
-            "target": "fedora/29/s390x/default"
-          },
-          {
-            "name": "fedora/29/s390x",
-            "description": "Fedora 29 (s390x)",
-            "target": "fedora/29/s390x"
-          }
-        ],
+        "aliases": [],
         "architecture": "s390x",
         "fingerprint": "5e946adfb3574a14ff2d6043d8b5495f549e38afd4db6139742269cc57a40097",
         "filename": "fedora-29-s390x-default-20190508_20:33.tar.xz",
@@ -7307,26 +7269,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
-        "fingerprint": "8adf5cda52c70b20ea5bfe2c7e99eed5799af898b07149eaab6dc300173d1da6",
-        "filename": "gentoo-current-amd64-default-20190506_16:21.tar.xz",
+        "aliases": [
+          {
+            "name": "fedora/29/s390x/default",
+            "description": "Fedora 29 (s390x) (default)",
+            "target": "fedora/29/s390x/default"
+          },
+          {
+            "name": "fedora/29/s390x",
+            "description": "Fedora 29 (s390x)",
+            "target": "fedora/29/s390x"
+          }
+        ],
+        "architecture": "s390x",
+        "fingerprint": "3d1aafffee371fa2938f6c137d6adb9b4ef054140f430cbd1893c906434133b1",
+        "filename": "fedora-29-s390x-default-20190509_20:33.tar.xz",
         "properties": {
-          "description": "Gentoo current amd64 (20190506_16:21)",
-          "distribution": "gentoo",
-          "release": "current",
-          "architecture": "amd64",
-          "build": "20190506_16:21",
-          "serial": "20190506_16:21",
-          "name": "gentoo-current-amd64-default-20190506_16:21",
-          "os": "gentoo",
+          "description": "Fedora 29 s390x (20190509_20:33)",
+          "distribution": "fedora",
+          "release": "29",
+          "architecture": "s390x",
+          "build": "20190509_20:33",
+          "serial": "20190509_20:33",
+          "name": "fedora-29-s390x-default-20190509_20:33",
+          "os": "fedora",
           "variant": "default"
         },
-        "size": 475203022,
+        "size": 115483538,
         "public": true,
-        "created_at": "2019-05-06T17:49:11Z",
+        "created_at": "2019-05-09T20:50:58Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T17:49:11Z"
+        "uploaded_at": "2019-05-09T20:50:58Z"
       }
     },
     {
@@ -7361,28 +7334,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "gentoo/current/amd64/default",
-            "description": "Gentoo current (amd64) (default)",
-            "target": "gentoo/current/amd64/default"
-          },
-          {
-            "name": "gentoo/amd64/default",
-            "description": "Gentoo amd64 (default)",
-            "target": "gentoo/amd64/default"
-          },
-          {
-            "name": "gentoo/amd64",
-            "description": "Gentoo (amd64)",
-            "target": "gentoo/amd64"
-          },
-          {
-            "name": "gentoo/current/amd64",
-            "description": "Gentoo current (amd64)",
-            "target": "gentoo/current/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "b41eadcaef5cd979f0cb7c93fc2df3e6c3774ed717d0f1b34b193df64ea08e04",
         "filename": "gentoo-current-amd64-default-20190508_16:07.tar.xz",
@@ -7409,26 +7361,47 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "armv7l",
-        "fingerprint": "31db9eab8b461bf14f9800f8e7504daa5041160b73fb56302fcf0c766c3e1306",
-        "filename": "gentoo-current-armhf-default-20190506_16:21.tar.xz",
+        "aliases": [
+          {
+            "name": "gentoo/current/amd64/default",
+            "description": "Gentoo current (amd64) (default)",
+            "target": "gentoo/current/amd64/default"
+          },
+          {
+            "name": "gentoo/amd64/default",
+            "description": "Gentoo amd64 (default)",
+            "target": "gentoo/amd64/default"
+          },
+          {
+            "name": "gentoo/amd64",
+            "description": "Gentoo (amd64)",
+            "target": "gentoo/amd64"
+          },
+          {
+            "name": "gentoo/current/amd64",
+            "description": "Gentoo current (amd64)",
+            "target": "gentoo/current/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "01a3531f6a43865fca5e733cbf591f2069d2baefbf2fe08bee436ea0e9b8fd5f",
+        "filename": "gentoo-current-amd64-default-20190509_16:55.tar.xz",
         "properties": {
-          "description": "Gentoo current armhf (20190506_16:21)",
+          "description": "Gentoo current amd64 (20190509_16:55)",
           "distribution": "gentoo",
           "release": "current",
-          "architecture": "armhf",
-          "build": "20190506_16:21",
-          "serial": "20190506_16:21",
-          "name": "gentoo-current-armhf-default-20190506_16:21",
+          "architecture": "amd64",
+          "build": "20190509_16:55",
+          "serial": "20190509_16:55",
+          "name": "gentoo-current-amd64-default-20190509_16:55",
           "os": "gentoo",
           "variant": "default"
         },
-        "size": 325723606,
+        "size": 475874766,
         "public": true,
-        "created_at": "2019-05-06T17:51:56Z",
+        "created_at": "2019-05-09T17:20:31Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-06T17:51:56Z"
+        "uploaded_at": "2019-05-09T17:20:31Z"
       }
     },
     {
@@ -7463,6 +7436,33 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
+        "aliases": [],
+        "architecture": "armv7l",
+        "fingerprint": "d910863d9ba70a309e8a1bbce2c13f5741639fdff9aef994d4e42d3acb332953",
+        "filename": "gentoo-current-armhf-default-20190508_16:07.tar.xz",
+        "properties": {
+          "description": "Gentoo current armhf (20190508_16:07)",
+          "distribution": "gentoo",
+          "release": "current",
+          "architecture": "armhf",
+          "build": "20190508_16:07",
+          "serial": "20190508_16:07",
+          "name": "gentoo-current-armhf-default-20190508_16:07",
+          "os": "gentoo",
+          "variant": "default"
+        },
+        "size": 325760470,
+        "public": true,
+        "created_at": "2019-05-08T16:52:15Z",
+        "expires_at": "1970-01-01T00:00:00Z",
+        "uploaded_at": "2019-05-08T16:52:15Z"
+      }
+    },
+    {
+      "type": "sync",
+      "status": "Success",
+      "status_code": 200,
+      "metadata": {
         "aliases": [
           {
             "name": "gentoo/current/armhf/default",
@@ -7486,24 +7486,24 @@
           }
         ],
         "architecture": "armv7l",
-        "fingerprint": "d910863d9ba70a309e8a1bbce2c13f5741639fdff9aef994d4e42d3acb332953",
-        "filename": "gentoo-current-armhf-default-20190508_16:07.tar.xz",
+        "fingerprint": "98913492be8987929bd2674b84fd7a02ce630be3748b373fde0ed26ddab769c2",
+        "filename": "gentoo-current-armhf-default-20190509_16:07.tar.xz",
         "properties": {
-          "description": "Gentoo current armhf (20190508_16:07)",
+          "description": "Gentoo current armhf (20190509_16:07)",
           "distribution": "gentoo",
           "release": "current",
           "architecture": "armhf",
-          "build": "20190508_16:07",
-          "serial": "20190508_16:07",
-          "name": "gentoo-current-armhf-default-20190508_16:07",
+          "build": "20190509_16:07",
+          "serial": "20190509_16:07",
+          "name": "gentoo-current-armhf-default-20190509_16:07",
           "os": "gentoo",
           "variant": "default"
         },
         "size": 325760470,
         "public": true,
-        "created_at": "2019-05-08T16:52:15Z",
+        "created_at": "2019-05-09T17:03:01Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-08T16:52:15Z"
+        "uploaded_at": "2019-05-09T17:03:01Z"
       }
     },
     {
@@ -8831,33 +8831,6 @@
       "metadata": {
         "aliases": [],
         "architecture": "x86_64",
-        "fingerprint": "e5f60e3877194a7732e58c4424d0cdaa55828a431de7ce1d22b071dd49fead7d",
-        "filename": "plamo-6.x-amd64-default-20190507_01:33.tar.xz",
-        "properties": {
-          "description": "Plamo 6.x amd64 (20190507_01:33)",
-          "distribution": "plamo",
-          "release": "6.x",
-          "architecture": "amd64",
-          "build": "20190507_01:33",
-          "serial": "20190507_01:33",
-          "name": "plamo-6.x-amd64-default-20190507_01:33",
-          "os": "plamo",
-          "variant": "default"
-        },
-        "size": 130929870,
-        "public": true,
-        "created_at": "2019-05-07T01:46:23Z",
-        "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:46:23Z"
-      }
-    },
-    {
-      "type": "sync",
-      "status": "Success",
-      "status_code": 200,
-      "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
         "fingerprint": "ff5904230132b506a63f7d14b3b42d05878d2c00292983a440d61a7e55cd849a",
         "filename": "plamo-6.x-amd64-default-20190508_01:33.tar.xz",
         "properties": {
@@ -8883,18 +8856,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "plamo/6.x/amd64/default",
-            "description": "Plamo 6.x (amd64) (default)",
-            "target": "plamo/6.x/amd64/default"
-          },
-          {
-            "name": "plamo/6.x/amd64",
-            "description": "Plamo 6.x (amd64)",
-            "target": "plamo/6.x/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "8819d1b60c305f0dd3868d0e8bf97cd7ed36eea151f64c0028dbb0457d4034c5",
         "filename": "plamo-6.x-amd64-default-20190509_01:33.tar.xz",
@@ -8921,26 +8883,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "i686",
-        "fingerprint": "b3577ac4a588a5a2b199fecee448aaab8d8283e8872347a092383d2197e97fef",
-        "filename": "plamo-6.x-i386-default-20190507_01:33.tar.xz",
+        "aliases": [
+          {
+            "name": "plamo/6.x/amd64/default",
+            "description": "Plamo 6.x (amd64) (default)",
+            "target": "plamo/6.x/amd64/default"
+          },
+          {
+            "name": "plamo/6.x/amd64",
+            "description": "Plamo 6.x (amd64)",
+            "target": "plamo/6.x/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "bb6a0b289f5f9b55fa92cb57dbc80b4bdbff65df0e6c49cac4c3655096079857",
+        "filename": "plamo-6.x-amd64-default-20190510_01:33.tar.xz",
         "properties": {
-          "description": "Plamo 6.x i386 (20190507_01:33)",
+          "description": "Plamo 6.x amd64 (20190510_01:33)",
           "distribution": "plamo",
           "release": "6.x",
-          "architecture": "i386",
-          "build": "20190507_01:33",
-          "serial": "20190507_01:33",
-          "name": "plamo-6.x-i386-default-20190507_01:33",
+          "architecture": "amd64",
+          "build": "20190510_01:33",
+          "serial": "20190510_01:33",
+          "name": "plamo-6.x-amd64-default-20190510_01:33",
           "os": "plamo",
           "variant": "default"
         },
-        "size": 128451790,
+        "size": 130929870,
         "public": true,
-        "created_at": "2019-05-07T01:47:32Z",
+        "created_at": "2019-05-10T01:46:13Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:47:32Z"
+        "uploaded_at": "2019-05-10T01:46:13Z"
       }
     },
     {
@@ -8975,18 +8948,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "plamo/6.x/i386/default",
-            "description": "Plamo 6.x (i386) (default)",
-            "target": "plamo/6.x/i386/default"
-          },
-          {
-            "name": "plamo/6.x/i386",
-            "description": "Plamo 6.x (i386)",
-            "target": "plamo/6.x/i386"
-          }
-        ],
+        "aliases": [],
         "architecture": "i686",
         "fingerprint": "6f2af8a58dd28e8fdc4b563ebadb335250ae5d5fd8194851a9776d4f83ac1ac5",
         "filename": "plamo-6.x-i386-default-20190509_01:33.tar.xz",
@@ -9013,26 +8975,37 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [],
-        "architecture": "x86_64",
-        "fingerprint": "7ecf4d34e847dccbf68135546f663e6f24fb3fa5f5f1a2d00e343a2d81d06044",
-        "filename": "plamo-7.x-amd64-default-20190507_01:33.tar.xz",
+        "aliases": [
+          {
+            "name": "plamo/6.x/i386/default",
+            "description": "Plamo 6.x (i386) (default)",
+            "target": "plamo/6.x/i386/default"
+          },
+          {
+            "name": "plamo/6.x/i386",
+            "description": "Plamo 6.x (i386)",
+            "target": "plamo/6.x/i386"
+          }
+        ],
+        "architecture": "i686",
+        "fingerprint": "0eec4c8afad1b5fb410eb156cfb1f5f397fe505201757b57b13b0267978deff3",
+        "filename": "plamo-6.x-i386-default-20190510_01:33.tar.xz",
         "properties": {
-          "description": "Plamo 7.x amd64 (20190507_01:33)",
+          "description": "Plamo 6.x i386 (20190510_01:33)",
           "distribution": "plamo",
-          "release": "7.x",
-          "architecture": "amd64",
-          "build": "20190507_01:33",
-          "serial": "20190507_01:33",
-          "name": "plamo-7.x-amd64-default-20190507_01:33",
+          "release": "6.x",
+          "architecture": "i386",
+          "build": "20190510_01:33",
+          "serial": "20190510_01:33",
+          "name": "plamo-6.x-i386-default-20190510_01:33",
           "os": "plamo",
           "variant": "default"
         },
-        "size": 130123074,
+        "size": 128451790,
         "public": true,
-        "created_at": "2019-05-07T01:48:49Z",
+        "created_at": "2019-05-10T01:47:14Z",
         "expires_at": "1970-01-01T00:00:00Z",
-        "uploaded_at": "2019-05-07T01:48:49Z"
+        "uploaded_at": "2019-05-10T01:47:14Z"
       }
     },
     {
@@ -9067,18 +9040,7 @@
       "status": "Success",
       "status_code": 200,
       "metadata": {
-        "aliases": [
-          {
-            "name": "plamo/7.x/amd64/default",
-            "description": "Plamo 7.x (amd64) (default)",
-            "target": "plamo/7.x/amd64/default"
-          },
-          {
-            "name": "plamo/7.x/amd64",
-            "description": "Plamo 7.x (amd64)",
-            "target": "plamo/7.x/amd64"
-          }
-        ],
+        "aliases": [],
         "architecture": "x86_64",
         "fingerprint": "dbdfeafaf1eea02c334371f375928e884d54a5da86ade801b71e95e1e22cbcc1",
         "filename": "plamo-7.x-amd64-default-20190509_01:33.tar.xz",
@@ -9098,6 +9060,44 @@
         "created_at": "2019-05-09T01:48:20Z",
         "expires_at": "1970-01-01T00:00:00Z",
         "uploaded_at": "2019-05-09T01:48:20Z"
+      }
+    },
+    {
+      "type": "sync",
+      "status": "Success",
+      "status_code": 200,
+      "metadata": {
+        "aliases": [
+          {
+            "name": "plamo/7.x/amd64/default",
+            "description": "Plamo 7.x (amd64) (default)",
+            "target": "plamo/7.x/amd64/default"
+          },
+          {
+            "name": "plamo/7.x/amd64",
+            "description": "Plamo 7.x (amd64)",
+            "target": "plamo/7.x/amd64"
+          }
+        ],
+        "architecture": "x86_64",
+        "fingerprint": "80c87d6abc7db78d28b0afbbec419ed86677babad9ca2c5b864c7a595c83f277",
+        "filename": "plamo-7.x-amd64-default-20190510_01:33.tar.xz",
+        "properties": {
+          "description": "Plamo 7.x amd64 (20190510_01:33)",
+          "distribution": "plamo",
+          "release": "7.x",
+          "architecture": "amd64",
+          "build": "20190510_01:33",
+          "serial": "20190510_01:33",
+          "name": "plamo-7.x-amd64-default-20190510_01:33",
+          "os": "plamo",
+          "variant": "default"
+        },
+        "size": 130123074,
+        "public": true,
+        "created_at": "2019-05-10T01:48:16Z",
+        "expires_at": "1970-01-01T00:00:00Z",
+        "uploaded_at": "2019-05-10T01:48:16Z"
       }
     },
     {
